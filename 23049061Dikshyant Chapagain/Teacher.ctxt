@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Teacher
+comment0.text=\r\n\ This\ is\ the\ parent\ Teacher\ Class.\ This\ class\ contains\ teacherId,teacherName,adress,workingType,employmentStatus,\ and\ workinghours\r\n\ as\ it's\ attribute.It\ has\ different\ accessor\ and\ mutator\ methods\ and\ a\ display\ method\ to\ display\ the\ details\ of\ the\ Teacherclass\r\n\r\n\ @DikshyantChapagain\r\n\ @1/19/2024\r\n
+comment1.params=teacherId\ teacherName\ address\ workingType\ employmentStatus
+comment1.target=Teacher(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getteacherId()
+comment3.params=
+comment3.target=java.lang.String\ getteacherName()
+comment4.params=
+comment4.target=java.lang.String\ getaddress()
+comment5.params=
+comment5.target=java.lang.String\ getworkingType()
+comment6.params=
+comment6.target=java.lang.String\ getemploymentStatus()
+comment7.params=workinghours
+comment7.target=void\ setworkinghours(double)
+comment8.params=
+comment8.target=void\ display()
+comment9.params=
+comment9.target=java.lang.String\ strDisplay()
+numComments=10

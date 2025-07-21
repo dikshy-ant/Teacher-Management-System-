@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Lecturer
+comment0.text=\r\n\ This\ class\ is\ a\ child\ class\ of\ the\ Teacher\ class.\ This\ class\ contains\ department,\ yearsOfExperience,gradedScore\ and\ hasGraded\r\n\ as\ it's\ attributes.It\ has\ various\ accessor\ methods\ of\ its\ attributes\ and\ a\ mutator\ method\ and\ a\ displaymethod\ to\ display\ the\ details\ \r\n\ which\ has\ the\ same\ signature\ as\ the\ Teacher\ class\r\n\ *\ @DikshyantChapagain\r\n\ @1/19/2024\r\n
+comment1.params=teacherId\ teacherName\ address\ workingType\ employmentStatus\ workinghours\ department\ yearsOfExperience
+comment1.target=Lecturer(int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getdepartment()
+comment3.params=
+comment3.target=int\ getyearsOfExperience()
+comment4.params=
+comment4.target=int\ getgradedScore()
+comment5.params=
+comment5.target=boolean\ gethasGraded()
+comment6.params=gradedScore
+comment6.target=void\ setgradedScore(int)
+comment7.params=gradedScore\ Department\ YearsOfExperience
+comment7.target=void\ gradeAssignment(int,\ java.lang.String,\ int)
+comment8.params=
+comment8.target=void\ display()
+comment9.params=
+comment9.target=java.lang.String\ strDisplay()
+numComments=10
